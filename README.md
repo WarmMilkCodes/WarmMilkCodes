@@ -3,6 +3,7 @@
 - 🌱 I like Python. I have a BScIT with a concentration in Software Development and Programming.
 - 💞️ I’m looking to collaborate on anything to get a better understanding of different programming languages.
 - 📫 How to reach me: warmmilkgames@gmail.com
+- Current project: Math Mayhem web app
 
 <!---
 WarmMilkCodes/WarmMilkCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
