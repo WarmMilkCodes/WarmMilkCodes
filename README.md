@@ -6,9 +6,7 @@
 
 Current Projects:
 
-https://signupwhiz.com
-
-https://alytify.com
+https://CalcCraft.org
 
 https://tipofmytongue.onrender.com
 
